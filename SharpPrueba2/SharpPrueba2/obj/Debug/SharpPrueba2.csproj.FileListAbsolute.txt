@@ -1,0 +1,12 @@
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\bin\Debug\SharpPrueba2.exe
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\bin\Debug\SharpPrueba2.pdb
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\SharpPrueba2.Properties.Resources.resources
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\SharpPrueba2.csproj.GenerateResource.Cache
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\SharpPrueba2.exe
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\SharpPrueba2.pdb
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\SharpPrueba2.Form1.resources
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\SharpPrueba2.Form0.resources
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\SharpPrueba2.Form2.resources
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\SharpPrueba2.Form3.resources
+D:\Users\a20110952\Documents\Visual Studio 2008\Projects\SharpPrueba2\SharpPrueba2\obj\Debug\SharpPrueba2.Form4.resources
